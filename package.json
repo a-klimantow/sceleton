@@ -6,9 +6,11 @@
     "react-router-dom": "^5.1.2"
   },
   "devDependencies": {
+    "@babel/core": "^7.0.0-0",
+    "@babel/preset-react": "^7.7.4",
+    "eslint-plugin-react": "^7.17.0",
     "parcel-bundler": "^1.12.4",
-    "reshadow": "0.0.1-alpha.73",
-    "sass": "^1.23.7"
+    "reshadow": "0.0.1-alpha.73"
   },
   "scripts": {
     "start": "parcel index.html"
